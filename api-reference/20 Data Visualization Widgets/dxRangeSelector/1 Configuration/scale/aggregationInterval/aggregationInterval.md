@@ -1,5 +1,6 @@
 ---
 id: dxRangeSelector.Options.scale.aggregationInterval
+type: Number | any | TimeIntervalType
 inherits: VizTimeInterval
 ---
 ---

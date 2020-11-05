@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.StepLineSeries.aggregation
+id: dxChartSeriesTypesStepLineSeries.aggregation
 type: Object
 ---

@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.commonAxisSettings.stripStyle.label
+id: dxChartCommonAxisSettingsStripStyle.label
 type: Object
 ---
 ---

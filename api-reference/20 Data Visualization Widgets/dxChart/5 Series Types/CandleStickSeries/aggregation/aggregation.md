@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.CandleStickSeries.aggregation
+id: dxChartSeriesTypesCandleStickSeries.aggregation
 type: Object
 ---

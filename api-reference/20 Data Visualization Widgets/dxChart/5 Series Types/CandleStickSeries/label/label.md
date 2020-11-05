@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.CandleStickSeries.label
+id: dxChartSeriesTypesCandleStickSeries.label
 type: Object
 ---

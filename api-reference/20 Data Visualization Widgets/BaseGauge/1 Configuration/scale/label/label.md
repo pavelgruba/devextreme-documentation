@@ -1,5 +1,5 @@
 ---
-id: BaseGauge.Options.scale.label
+id: BaseGaugeScale.label
 type: Object
 ---
 ---

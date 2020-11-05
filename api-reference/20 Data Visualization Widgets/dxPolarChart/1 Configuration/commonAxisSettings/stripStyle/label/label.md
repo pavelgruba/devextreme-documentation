@@ -1,5 +1,5 @@
 ---
-id: dxPolarChart.Options.commonAxisSettings.stripStyle.label
+id: dxPolarChartCommonAxisSettingsStripStyle.label
 type: Object
 ---
 ---

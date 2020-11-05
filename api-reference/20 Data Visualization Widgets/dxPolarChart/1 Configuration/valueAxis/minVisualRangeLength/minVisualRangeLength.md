@@ -1,5 +1,5 @@
 ---
-id: dxPolarChart.Options.valueAxis.minVisualRangeLength
+id: dxPolarChartValueAxis.minVisualRangeLength
 inherits: VizTimeInterval
 default: undefined
 notUsedInTheme: 

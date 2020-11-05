@@ -1,4 +1,4 @@
 ---
-id: dxVectorMap.Options.tooltip.format
+id: dxVectorMapTooltip.format
 hidden: 
 ---

@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.StackedBarSeries.label
+id: dxChartSeriesTypesStackedBarSeries.label
 type: Object
 ---

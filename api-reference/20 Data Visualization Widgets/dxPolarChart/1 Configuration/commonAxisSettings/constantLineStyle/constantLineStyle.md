@@ -1,5 +1,5 @@
 ---
-id: dxPolarChart.Options.commonAxisSettings.constantLineStyle
+id: dxPolarChartCommonAxisSettings.constantLineStyle
 type: Object
 ---
 ---

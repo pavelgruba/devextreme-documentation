@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.StepAreaSeries.selectionStyle.border
+id: dxChartSeriesTypesStepAreaSeriesSelectionStyle.border
 type: Object
 ---

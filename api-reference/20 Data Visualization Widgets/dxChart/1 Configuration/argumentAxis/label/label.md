@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.argumentAxis.label
+id: dxChartArgumentAxis.label
 type: Object
 ---
 ---

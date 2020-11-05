@@ -1,5 +1,5 @@
 ---
-id: dxCircularGauge.Options.scale.label
+id: dxCircularGaugeScale.label
 type: Object
 ---
 ---

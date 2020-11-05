@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.argumentAxis.constantLineStyle
+id: dxChartArgumentAxis.constantLineStyle
 type: Object
 ---
 ---

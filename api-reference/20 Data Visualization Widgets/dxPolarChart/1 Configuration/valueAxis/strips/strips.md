@@ -1,7 +1,7 @@
 ---
-id: dxPolarChart.Options.valueAxis.strips
+id: dxPolarChartValueAxis.strips
 type: Array<Object>
-inherits: dxPolarChart.Options.commonAxisSettings.stripStyle
+inherits: dxPolarChartCommonAxisSettings.stripStyle
 notUsedInTheme: 
 ---
 ---

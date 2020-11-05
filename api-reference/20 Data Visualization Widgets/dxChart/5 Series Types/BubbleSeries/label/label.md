@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.BubbleSeries.label
+id: dxChartSeriesTypesBubbleSeries.label
 type: Object
 ---

@@ -1,5 +1,5 @@
 ---
-id: dxChartSeriesTypes.CommonSeries.aggregation
+id: dxChartSeriesTypesCommonSeries.aggregation
 type: Object
 ---
 ---

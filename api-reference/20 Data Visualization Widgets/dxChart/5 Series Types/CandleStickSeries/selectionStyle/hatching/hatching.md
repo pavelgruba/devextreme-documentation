@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.CandleStickSeries.selectionStyle.hatching
+id: dxChartSeriesTypesCandleStickSeriesSelectionStyle.hatching
 type: Object
 ---

@@ -1,5 +1,6 @@
 ---
 id: dxRangeSelector.Options.scale.tickInterval
+type: Number | any | TimeIntervalType
 inherits: VizTimeInterval
 ---
 ---

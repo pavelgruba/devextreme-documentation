@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.FullStackedLineSeries.label
+id: dxChartSeriesTypesFullStackedLineSeries.label
 type: Object
 ---

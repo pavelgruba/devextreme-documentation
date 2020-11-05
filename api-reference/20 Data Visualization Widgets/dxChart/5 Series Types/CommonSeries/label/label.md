@@ -1,5 +1,5 @@
 ---
-id: dxChartSeriesTypes.CommonSeries.label
+id: dxChartSeriesTypesCommonSeries.label
 type: Object
 ---
 ---

@@ -1,5 +1,6 @@
 ---
 id: dxRangeSelector.Options.scale.minorTickInterval
+type: Number | any | TimeIntervalType
 inherits: VizTimeInterval
 ---
 ---

@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.StackedBarSeries.aggregation
+id: dxChartSeriesTypesStackedBarSeries.aggregation
 type: Object
 ---

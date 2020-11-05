@@ -1,5 +1,5 @@
 ---
-id: dxPolarChart.Options.argumentAxis.strips.label
+id: dxPolarChartArgumentAxisStrips.label
 type: Object
 ---
 ---

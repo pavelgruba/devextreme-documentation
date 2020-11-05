@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.FullStackedSplineAreaSeries.label
+id: dxChartSeriesTypesFullStackedSplineAreaSeries.label
 type: Object
 ---

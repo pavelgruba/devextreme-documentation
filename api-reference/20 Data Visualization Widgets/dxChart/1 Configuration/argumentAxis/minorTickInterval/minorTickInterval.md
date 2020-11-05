@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.argumentAxis.minorTickInterval
+id: dxChartArgumentAxis.minorTickInterval
 inherits: VizTimeInterval
 ---
 ---

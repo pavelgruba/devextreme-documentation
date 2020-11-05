@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.valueAxis.strips.label
+id: dxChartValueAxisStrips.label
 type: Object
 ---
 ---

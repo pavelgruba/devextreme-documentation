@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.StepAreaSeries.hoverStyle
+id: dxChartSeriesTypesStepAreaSeries.hoverStyle
 type: Object
 ---

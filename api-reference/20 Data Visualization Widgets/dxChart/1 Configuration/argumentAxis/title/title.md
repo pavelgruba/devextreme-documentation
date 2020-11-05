@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.argumentAxis.title
+id: dxChartArgumentAxis.title
 type: String | Object
 ---
 ---

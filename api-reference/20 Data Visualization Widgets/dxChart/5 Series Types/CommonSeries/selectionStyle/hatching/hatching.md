@@ -1,5 +1,5 @@
 ---
-id: dxChartSeriesTypes.CommonSeries.selectionStyle.hatching
+id: dxChartSeriesTypesCommonSeriesSelectionStyle.hatching
 type: Object
 ---
 ---

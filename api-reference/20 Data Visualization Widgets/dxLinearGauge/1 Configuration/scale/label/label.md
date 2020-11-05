@@ -1,5 +1,5 @@
 ---
-id: dxLinearGauge.Options.scale.label
+id: dxLinearGaugeScale.label
 type: Object
 ---
 ---

@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.commonAxisSettings.label
+id: dxChartCommonAxisSettings.label
 type: Object
 ---
 ---

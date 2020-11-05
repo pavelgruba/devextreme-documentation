@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.StackedAreaSeries.point
+id: dxChartSeriesTypesStackedAreaSeries.point
 type: Object
 ---

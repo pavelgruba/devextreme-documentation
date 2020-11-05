@@ -1,5 +1,5 @@
 ---
-id: dxChartSeriesTypes.CommonSeries.point
+id: dxChartSeriesTypesCommonSeries.point
 type: Object
 ---
 ---

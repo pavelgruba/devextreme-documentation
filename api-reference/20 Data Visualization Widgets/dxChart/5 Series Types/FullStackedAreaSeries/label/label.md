@@ -1,5 +1,5 @@
 ---
-id: dxChartSeriesTypes.FullStackedAreaSeries.label
+id: dxChartSeriesTypesFullStackedAreaSeries.label
 type: Object
 ---
 ---

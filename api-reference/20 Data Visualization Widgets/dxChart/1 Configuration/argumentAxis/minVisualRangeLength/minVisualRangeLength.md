@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.argumentAxis.minVisualRangeLength
+id: dxChartArgumentAxis.minVisualRangeLength
 inherits: VizTimeInterval
 default: undefined
 notUsedInTheme: 

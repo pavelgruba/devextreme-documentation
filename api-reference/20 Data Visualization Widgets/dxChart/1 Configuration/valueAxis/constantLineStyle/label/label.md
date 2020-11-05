@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.valueAxis.constantLineStyle.label
+id: dxChartValueAxisConstantLineStyle.label
 type: Object
 ---
 ---

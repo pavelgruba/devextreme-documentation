@@ -1,5 +1,5 @@
 ---
-id: dxChartSeriesTypes.CommonSeries.border
+id: dxChartSeriesTypesCommonSeries.border
 type: Object
 ---
 ---

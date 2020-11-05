@@ -1,5 +1,5 @@
 ---
-id: dxPolarChart.Options.commonAxisSettings.label
+id: dxPolarChartCommonAxisSettings.label
 type: Object
 ---
 ---

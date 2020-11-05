@@ -1,5 +1,5 @@
 ---
-id: BaseGauge.Options.loadingIndicator.enabled
+id: BaseGaugeLoadingIndicator.enabled
 type: Boolean
 hidden: 
 ---

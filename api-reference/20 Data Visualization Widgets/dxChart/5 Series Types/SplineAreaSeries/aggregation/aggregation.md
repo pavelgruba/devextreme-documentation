@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.SplineAreaSeries.aggregation
+id: dxChartSeriesTypesSplineAreaSeries.aggregation
 type: Object
 ---

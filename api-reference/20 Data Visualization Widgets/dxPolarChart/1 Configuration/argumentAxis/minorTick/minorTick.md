@@ -1,4 +1,4 @@
 ---
-id: dxPolarChart.Options.argumentAxis.minorTick
+id: dxPolarChartArgumentAxis.minorTick
 type: Object
 ---

@@ -1,4 +1,4 @@
 ---
-id: dxChartSeriesTypes.BubbleSeries.aggregation
+id: dxChartSeriesTypesBubbleSeries.aggregation
 type: Object
 ---

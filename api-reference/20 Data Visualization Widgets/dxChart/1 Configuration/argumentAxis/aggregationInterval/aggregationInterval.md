@@ -1,5 +1,5 @@
 ---
-id: dxChart.Options.argumentAxis.aggregationInterval
+id: dxChartArgumentAxis.aggregationInterval
 inherits: VizTimeInterval
 ---
 ---

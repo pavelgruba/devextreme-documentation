@@ -1,4 +1,4 @@
 ---
-id: dxPolarChartSeriesTypes.areapolarseries.point
+id: dxPolarChartSeriesTypesAreapolarseries.point
 type: Object
 ---

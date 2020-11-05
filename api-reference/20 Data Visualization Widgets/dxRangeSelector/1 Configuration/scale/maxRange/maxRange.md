@@ -1,5 +1,6 @@
 ---
 id: dxRangeSelector.Options.scale.maxRange
+type: Number | any | TimeIntervalType
 inherits: VizTimeInterval
 ---
 ---
