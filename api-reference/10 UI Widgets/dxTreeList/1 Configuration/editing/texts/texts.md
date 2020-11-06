@@ -1,4 +1,4 @@
 ---
-id: dxTreeList.Options.editing.texts
+id: dxTreeListEditing.texts
 type: Object
 ---

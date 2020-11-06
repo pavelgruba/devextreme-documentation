@@ -1,5 +1,5 @@
 ---
-id: GridBase.Options.editing.texts
+id: GridBaseEditing.texts
 type: Object
 ---
 ---
